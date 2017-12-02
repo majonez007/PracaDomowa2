@@ -5,6 +5,8 @@
 
 <p>Do zapisywania liczb używa się skończonego zbioru znaków, zwanych cyframi, które można łączyć w dowolnie długie ciągi, otrzymując nieskończoną liczbę kombinacji.</p>
 
+
+<h1>System binarny</h1>
 <h1>Historia</h1>
 
 <p>Używał go już John Napier w XVI wieku, przy czym 0 i 1 zapisywał jako a i b[1]. Ojcem nowoczesnego systemu binarnego nazywany jest Gottfried Wilhelm Leibniz[2], autor opublikowanego w 1703 roku artykułu Explication de l'Arithmétique Binaire.</p>
@@ -19,7 +21,21 @@ Np. liczba zapisana w dziesiętnym systemie liczbowym jako 10, w systemie dwójk
 <blockquote>
 1*2^3 + 0*2^ + 1*2^1 + 0*2^0 = 8 + 2 = 10</blockquote>
 
-Liczby w systemach niedziesiętnych oznacza się czasami indeksem dolnym zapisanym w systemie dziesiętnym, a oznaczającym podstawę danego systemu. W celu podkreślenia, że liczba jest dziesiętna można również napisać obok niej indeks.
+w systemie          |w systemie
+dziesiętnym	        |dwójkowym
+1	                |1
+2	                |10
+3	                |11
+4	                |100
+5	                |101
+6	                |110
+7	                |111
+8	                |1000
+9	                |1001
+10	                |1010
+
+
+<h1>Syetem ósemkowy<h1/>
 
 <blockquote>
 zródło: www.wikipedia.pl</blockquote>
