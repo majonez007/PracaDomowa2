@@ -14,5 +14,3 @@ W celu użycia funkcji scanf() należy użyć biblioteki: #include <stdio.h> odc
 <li>l przedrostek stosowany przed:  f e  (double) </li>
 <li>L przedrostek stosowany przed:  f e  (long double)  </li>
 <li>& operator adresowania (zwraca adres zmiennej podanej po operatorze) </li>
-</ul>
-
