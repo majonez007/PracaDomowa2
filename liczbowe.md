@@ -9,7 +9,17 @@
 
 <p>Używał go już John Napier w XVI wieku, przy czym 0 i 1 zapisywał jako a i b[1]. Ojcem nowoczesnego systemu binarnego nazywany jest Gottfried Wilhelm Leibniz[2], autor opublikowanego w 1703 roku artykułu Explication de l'Arithmétique Binaire.</p>
 
+<h2>Wykorzystanie</h2>
 
+<p> Powszechnie używany w elektronice cyfrowej, gdzie minimalizacja liczby stanów (do dwóch) pozwala na prostą implementację sprzętową odpowiadającą zazwyczaj stanom wyłączony i włączony oraz zminimalizowanie przekłamań danych[2]. Co za tym idzie, przyjął się też w informatyce.
+
+Jak w każdym pozycyjnym systemie liczbowym, liczby zapisuje się tu jako ciągi cyfr, z których każda jest mnożną kolejnej potęgi podstawy systemu.</p>
+<p>
+Np. liczba zapisana w dziesiętnym systemie liczbowym jako 10, w systemie dwójkowym przybiera postać 1010, gdyż:</p>
+<blockquote>
+1*2^3 + 0*2^ + 1*2^1 + 0*2^0 = 8 + 2 = 10</blockquote>
+
+Liczby w systemach niedziesiętnych oznacza się czasami indeksem dolnym zapisanym w systemie dziesiętnym, a oznaczającym podstawę danego systemu. W celu podkreślenia, że liczba jest dziesiętna można również napisać obok niej indeks.
 
 <blockquote>
 zródło: www.wikipedia.pl</blockquote>
