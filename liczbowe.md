@@ -42,6 +42,7 @@ dziesiętnym	        |dwójkowym
 <p>Jak w każdym pozycyjnym systemie liczbowym, liczby zapisuje się tu jako ciągi cyfr, z których każda jest mnożnikiem kolejnej potęgi liczby będącej podstawą systemu, np. liczba zapisana w dziesiętnym systemie liczbowym jako 100, w ósemkowym przybiera postać 144, gdyż:</p>
 
 <blockquote>1×82 + 4×81 + 4×80 = 64 + 32 + 4 = 100.</blockquote>
+
 <p>W matematyce liczby w systemach niedziesiętnych oznacza się czasami indeksem dolnym zapisanym w systemie dziesiętnym, a oznaczającym podstawę systemu, np. 1448 = 10010.</p>
 
 <h2>Przykład zamiany liczby z systemu dziesiętnego na system ósemkowy:</h2>
