@@ -19,4 +19,5 @@ kody formatujące kolejnych argumentów:
 + l przedrostek (long) stosowany przed:  d  u  x  o
 
 Zródło: [Wikipedia][1]
+
 [1]: https://pl.wikipedia.org "Wikipedia"
