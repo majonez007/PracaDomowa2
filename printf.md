@@ -1,19 +1,22 @@
-<h1> Funkcja: printf()</h1>
+Funkcja: printf()
+=================
 
-<p>
-W celu użycia funkcji printf() należy użyć biblioteki: #include <stdio.h> Funkcja printf() wysyła sformatowane dane do standardowego strumienia wyjściowego (stdout) printf ( tekst_sterujcy , argument_1 , argument_2 , . . . ) ; tekst sterujący → jest to stała łańcuchowa (w cudzysłowach) zawierająca:</p>
-<ul>
-zwykłe znaki (które są po prostu kopiowane na ekran) 
+>
+W celu użycia funkcji printf() należy użyć biblioteki: #include <stdio.h> Funkcja printf() wysyła sformatowane dane do standardowego strumienia wyjściowego (stdout) printf ( tekst_sterujcy , argument_1 , argument_2 , . . . ) ; tekst sterujący → jest to stała łańcuchowa (w cudzysłowach) zawierająca:
+
+
+>zwykłe znaki (które są po prostu kopiowane na ekran) 
 kody formatujące kolejnych argumentów:
-<ul>
-<li>%c pojedynczy znak </li>
-<li>%s łańcuch znaków </li>
-<li>%d liczba dziesiętna ze znakiem </li>
-<li>%f liczba zmiennoprzecinkowa (notacja dziesiętna) </li>
-<li>%e liczba zmiennoprzecinkowa (notacja wykładnicza) </li>
-<li>%e liczba zmiennoprzecinkowa (krótszy z formatów %f %e) </li>
-<li>%u liczba dziesiętna bez znaku</li>
-<li>%x liczba w kodzie szesnastkowym (bez znaku) </li>
-<li>%o liczba w kodzie ósemkowym (bez znaku) </li>
-<li>l przedrostek (long) stosowany przed:  d  u  x  o</li>
-</ul>
++ %c pojedynczy znak
++ %s łańcuch znaków
++ %d liczba dziesiętna ze znakiem
++ %f liczba zmiennoprzecinkowa (notacja dziesiętna)
++ %e liczba zmiennoprzecinkowa (notacja wykładnicza)
++ %e liczba zmiennoprzecinkowa (krótszy z formatów %f %e)
++ %u liczba dziesiętna bez znaku
++ %x liczba w kodzie szesnastkowym (bez znaku)
++ %o liczba w kodzie ósemkowym (bez znaku) 
++ l przedrostek (long) stosowany przed:  d  u  x  o
+
+Zródło: [Wikipedia][1]
+[1]: https://pl.wikipedia.org "Wikipedia"
